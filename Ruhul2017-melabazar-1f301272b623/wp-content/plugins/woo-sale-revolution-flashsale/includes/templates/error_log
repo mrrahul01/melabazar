@@ -1,0 +1,2 @@
+[26-Sep-2016 19:21:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/includes/templates/single.php on line 1
+[24-Oct-2016 02:49:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/includes/templates/single.php on line 1

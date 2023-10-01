@@ -1,0 +1,1 @@
+[26-Sep-2016 19:32:35 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/melabazar/public_html/wp-content/plugins/yith-woocommerce-ajax-search-premium/plugin-fw/licence/templates/panel/activation/activation-panel.php on line 11

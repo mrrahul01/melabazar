@@ -1,0 +1,4 @@
+[26-Sep-2016 19:21:31 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/template/front/product.php on line 6
+[27-Sep-2016 03:41:29 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/template/front/product_better.php on line 7
+[04-Nov-2016 02:47:36 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/template/front/product.php on line 6
+[07-Nov-2016 16:31:38 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/template/front/product_better.php on line 7

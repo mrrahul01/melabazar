@@ -1,0 +1,2 @@
+[26-Sep-2016 19:19:23 America/Chicago] PHP Fatal error:  Call to undefined function wp_enqueue_media() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/template/admin/add_edit_cart.php on line 2
+[26-Sep-2016 19:20:47 America/Chicago] PHP Fatal error:  Call to undefined function wp_enqueue_media() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/template/admin/add_edit_rule.php on line 2

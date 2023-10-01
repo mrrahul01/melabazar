@@ -1,0 +1,2 @@
+[26-Sep-2016 19:08:28 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/main.php on line 33
+[10-Oct-2016 08:02:29 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/main.php on line 33

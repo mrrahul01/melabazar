@@ -1,0 +1,6 @@
+[26-Sep-2016 19:13:38 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/core/widget.php on line 2
+[26-Sep-2016 19:14:07 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/core/shortcode.php on line 2
+[26-Sep-2016 19:14:17 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/core/discount_cart.php on line 3
+[14-Oct-2016 08:55:56 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/core/widget.php on line 2
+[14-Oct-2016 08:56:29 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/core/shortcode.php on line 2
+[14-Oct-2016 08:56:46 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/core/discount_cart.php on line 3

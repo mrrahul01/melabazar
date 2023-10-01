@@ -1,0 +1,1 @@
+[26-Sep-2016 19:19:53 America/Chicago] PHP Fatal error:  Class 'CsvWooProductsImporter' not found in /home/melabazar/public_html/wp-content/plugins/woocommerce-prices-by-user-role/common/import/ImportUploadFields.php on line 3

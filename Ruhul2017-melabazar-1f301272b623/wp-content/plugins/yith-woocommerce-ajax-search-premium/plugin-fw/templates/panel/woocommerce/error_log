@@ -1,0 +1,2 @@
+[26-Sep-2016 19:27:55 America/Chicago] PHP Fatal error:  Call to undefined function add_thickbox() in /home/melabazar/public_html/wp-content/plugins/yith-woocommerce-ajax-search-premium/plugin-fw/templates/panel/woocommerce/woocommerce-panel.php on line 1
+[26-Sep-2016 19:28:37 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/melabazar/public_html/wp-content/plugins/yith-woocommerce-ajax-search-premium/plugin-fw/templates/panel/woocommerce/woocommerce-form.php on line 1

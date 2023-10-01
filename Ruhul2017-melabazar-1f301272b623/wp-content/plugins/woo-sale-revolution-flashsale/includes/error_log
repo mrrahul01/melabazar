@@ -1,0 +1,2 @@
+[26-Sep-2016 19:14:18 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/includes/shortcodes.php on line 30
+[16-Oct-2016 05:17:31 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home/melabazar/public_html/wp-content/plugins/woo-sale-revolution-flashsale/includes/shortcodes.php on line 30

@@ -1,0 +1,15 @@
+[01-May-2017 00:46:11 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[01-May-2017 00:46:16 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[12-Jun-2017 10:56:33 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:43:55 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:29 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:30 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:33 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:38 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:43 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[21-Jun-2017 15:53:44 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[18-Jul-2017 03:07:49 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/melabazar/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
